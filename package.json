@@ -39,7 +39,7 @@
     "@ipld/car": "^5.2.6",
     "@ipld/dag-cbor": "^9.0.8",
     "@ipld/dag-json": "^10.1.7",
-    "@ipld/dag-pb": "^4.0.8",
+    "@ipld/dag-pb": "^4.1.2",
     "@web3-storage/content-claims": "^4.0.1",
     "@web3-storage/gateway-lib": "^4.1.1",
     "cardex": "^3.0.0",
