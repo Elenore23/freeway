@@ -36,7 +36,7 @@
   "author": "Alan Shaw",
   "license": "Apache-2.0 OR MIT",
   "dependencies": {
-    "@ipld/car": "^5.2.6",
+    "@ipld/car": "^5.3.2",
     "@ipld/dag-cbor": "^9.0.8",
     "@ipld/dag-json": "^10.1.7",
     "@ipld/dag-pb": "^4.0.8",
